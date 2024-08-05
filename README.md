@@ -12,3 +12,6 @@ This project involves using logistic regression for binary classification of med
   
 ## - Evaluation:
 - Used metrics like accuracy to evaluate the model.
+
+## Contact:
+- Via mail: tareq.ibra.04@gmail.com
