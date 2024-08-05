@@ -5,6 +5,9 @@ This project involves using logistic regression for binary classification of med
 
 # Model Development
 ## - Data Preprocessing
+- Checking for missing data if existed
+- Checking for feature scaling if needed
+- Splitting the data for training and testing sets
 
 ## - Model Implementation
 - Built logistic regression models using scikit-learn.
